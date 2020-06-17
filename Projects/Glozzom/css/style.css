@@ -1,0 +1,33 @@
+.navbar .nav-link {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  font-size: 14px;
+
+  /* text tranform is to making lav link upper case  */
+  text-transform: uppercase;
+}
+
+.navbar a:hover {
+  position: relative;
+  border-bottom: 2px solid #fff;
+  border-radius: 2rem;
+}
+
+.carousel-item {
+  height: 400px;
+}
+
+.carousel-image-1 {
+  background: url("../img/image1.jpg");
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url("../img/image2.jpg");
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url("../img/image3.jpg");
+  background-size: cover;
+}
