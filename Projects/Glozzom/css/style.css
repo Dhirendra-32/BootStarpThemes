@@ -74,3 +74,18 @@ body {
 #video-play a {
   color: #fff;
 }
+
+#page-header {
+  min-height: 250px;
+  background: url(../img/image1.jpg);
+  background-attachment: fixed;
+  color: #fff;
+  background-position: 0 -360px;
+  border-bottom: 1px #eee solid;
+
+  padding-top: 50px;
+}
+
+.about-img {
+  margin-top: -70px;
+}
