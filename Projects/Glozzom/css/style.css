@@ -2,6 +2,14 @@ body {
   overflow-x: hidden;
 }
 
+/**/
+.navbar{
+
+  opacity: 0.9;
+
+}
+
+
 .navbar .nav-link {
   padding-left: 1rem !important;
   padding-right: 1rem !important;
@@ -112,5 +120,3 @@ body {
   background: #000;
   color: white;
 }
-
-
